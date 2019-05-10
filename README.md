@@ -1,1 +1,1 @@
-vacosasprivate
+Sistema de gerenciamento de vaquinhas , feito para critério de estudos da linguagem PHP com framework Laravel e Bootstrap 4, para instalar basta ter conhecimentos , em migrations do Laravel e Composer.
